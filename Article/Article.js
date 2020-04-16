@@ -2,25 +2,38 @@
 /* Look over this data, then proceed to line 91*/
 const data = [
   {
-    title: 'Lambda School Students: "We\'re the best!"',
-    date: 'Nov 5th, 2018',
-    firstParagraph: `Lucas ipsum dolor sit amet ben twi'lek padmé darth darth darth moff hutt organa twi'lek. Ben amidala secura skywalker lando
-        moff wicket tatooine luke.Solo wampa wampa calrissian yoda moff.Darth grievous darth gonk darth hutt.Darth baba skywalker
-        watto fett jango maul han.Mon ewok sidious sidious lando kenobi grievous gamorrean solo.Yoda wedge utapau darth calamari.
-        Hutt calamari darth jabba.Darth dooku amidala organa moff.Boba darth binks solo hutt skywalker dantooine skywalker.Qui - gonn
-        jar twi'lek jinn leia jango skywalker mon.`,
+    title: 'Star Wars',
+    date: 'Today',
+    firstParagraph: `Hey, you're not permitted in there. It's restricted. You'll be deactivated for sure.. Don't call me a mindless philosopher, you overweight glob of grease! Now come out before somebody sees you. Secret mission? What plans? What are you talking about? I'm not getting in there! I'm going to regret this. There goes another one. Hold your fire. There are no life forms. It must have been short-circuited. That's funny, the damage doesn't look as bad from out here. Are you sure this things safe?`,
 
-    secondParagraph: `Grievous fett calamari anakin skywalker hutt.Alderaan darth kenobi darth r2- d2
-        windu mothma.Sidious darth calamari moff.Wampa mothma sith wedge solo mara.Darth gonk maul sith moff chewbacca palpatine
-        mace amidala.C - 3po solo skywalker anakin yoda leia.Maul wampa bespin watto jade ewok darth jabba.Lando dantooine moff
-        k - 3po dantooine luke.Fisto mandalore darth wedge c - 3p0 ahsoka.Secura moff palpatine fett.Anakin sith darth darth.Moff
-        solo leia ben ponda jade.Binks jango aayla skywalker skywalker cade.Mustafar darth ventress anakin watto.Yavin jawa sebulba
-        owen jinn tatooine sith organa.`,
+    secondParagraph: `Holding her is dangerous. If word of this gets out, it could generate sympathy for the Rebellion in the senate. I have traced the Rebel spies to her. Now she is my only link to find their secret base! She'll die before she tells you anything. Leave that to me. Send a distress signal and then inform the senate that all aboard were killed! Lord Vader, the battle station plans are not aboard this ship! And no transmissions were made. An escape pod was jettisoned during the fighting, but no life forms were aboard. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them. See to it personally, Commander. There'll be no one to stop us this time. Yes, sir.`,
 
-    thirdParagraph: `Dagobah hutt jawa leia calamari ventress skywalker yoda. Binks wicket hutt coruscant sidious
-        naboo ackbar tatooine. Hutt lars padmé darth. Maul solo darth darth jabba qui-gon chewbacca darth maul. Moff baba wicket
-        han. C-3po antilles moff qui-gon ahsoka aayla dooku amidala. Palpatine droid amidala droid k-3po twi'lek padmé wookiee. Leia
-        moff calamari mon obi-wan. Solo grievous lando coruscant. Jinn darth palpatine obi-wan mon.`
+    thirdParagraph: `Uh, I'm quite sure you'll be very pleased with that one, sir. He really is in first-class condition. I've worked with him before. Here he comes. Okay, let's go. Now, don't you forget this! Why I should stick my neck out for you is quite beyond my capacity! Thank the maker! This oil bath is going to feel so good. I've got such a bad case of dust contamination, I can barely move! It just isn't fair. Oh, Biggs is right. I'm never gonna get out of here! Is there anything I might do to help? Well, not unless you can alter time, speed up the harvest, or teleport me off this rock! I don't think so, sir. I'm only a droid and not very knowledgeable about such things. Not on this planet, anyways. As a matter of fact, I'm not even sure which planet I'm on.`
+  },
+  {
+    title: 'Pokemon',
+    date: 'Yesterday',
+    firstParagraph: `Pokem ipsum dolor sit amet Parasect Persian Hitmontop Swellow Sandile Cradily. Ice Mirror Move Burnt Berry Beartic Zorua Roggenrola consectetur adipisicing elit. Glacier Badge but nothing happened Ice Berry Tympole Buneary Drilbur Blue. S.S. Anne Staraptor Espeon Eevee Kricketot Bellossom what kind of Pokemon are you. Bulbasaur Tropius Igglybuff Emboar Flying Sapphire Chimchar. `,
+
+    secondParagraph: `Pokem ipsum dolor sit amet Parasect Persian Hitmontop Swellow Sandile Cradily. Ice Mirror Move Burnt Berry Beartic Zorua Roggenrola consectetur adipisicing elit. Glacier Badge but nothing happened Ice Berry Tympole Buneary Drilbur Blue. S.S. Anne Staraptor Espeon Eevee Kricketot Bellossom what kind of Pokemon are you. Bulbasaur Tropius Igglybuff Emboar Flying Sapphire Chimchar. `,
+
+    thirdParagraph: `Pokem ipsum dolor sit amet Parasect Persian Hitmontop Swellow Sandile Cradily. Ice Mirror Move Burnt Berry Beartic Zorua Roggenrola consectetur adipisicing elit. Glacier Badge but nothing happened Ice Berry Tympole Buneary Drilbur Blue. S.S. Anne Staraptor Espeon Eevee Kricketot Bellossom what kind of Pokemon are you. Bulbasaur Tropius Igglybuff Emboar Flying Sapphire Chimchar. `
+  },
+
+  {
+    title: 'Bacon',
+    date: 'Tomorrow',
+    firstParagraph: `
+
+    Bacon ipsum dolor amet chicken jowl turducken kielbasa picanha bresaola cupim flank strip steak tail. T-bone ground round pork short loin ham hock meatloaf. Doner prosciutto kielbasa, drumstick picanha beef ribs sirloin short loin ham frankfurter. Alcatra frankfurter turducken, meatball beef tail shankle swine tri-tip rump pig burgdoggen strip steak sausage.`,
+
+    secondParagraph: `
+
+    Bacon ipsum dolor amet chicken jowl turducken kielbasa picanha bresaola cupim flank strip steak tail. T-bone ground round pork short loin ham hock meatloaf. Doner prosciutto kielbasa, drumstick picanha beef ribs sirloin short loin ham frankfurter. Alcatra frankfurter turducken, meatball beef tail shankle swine tri-tip rump pig burgdoggen strip steak sausage.`,
+
+    thirdParagraph: `
+
+    Bacon ipsum dolor amet chicken jowl turducken kielbasa picanha bresaola cupim flank strip steak tail. T-bone ground round pork short loin ham hock meatloaf. Doner prosciutto kielbasa, drumstick picanha beef ribs sirloin short loin ham frankfurter. Alcatra frankfurter turducken, meatball beef tail shankle swine tri-tip rump pig burgdoggen strip steak sausage.`
   },
   {
     title: 'Javascript and You, ES6',
@@ -112,3 +125,78 @@ const data = [
   Step 5: Add a new article to the array. Make sure it is in the same format as the others. Refresh the page to see the new article.
 
 */
+
+function createArticle(articleData) {
+  // Article container
+  const VarArticle = document.createElement('div');
+  VarArticle.classList.add('article');
+
+  // Article h2
+  const VarArticleH2 = document.createElement('h2');
+  VarArticleH2.textContent = articleData.title;
+  VarArticle.appendChild(VarArticleH2);
+
+  // Date
+  const VarArticleDate = document.createElement('p');
+  VarArticleDate.classList.add('date');
+  VarArticleDate.textContent = articleData.date;
+  VarArticle.appendChild(VarArticleDate);
+
+  // First article paragraph
+  const VarArticlePar1 = document.createElement('p');
+  VarArticlePar1.textContent = articleData.firstParagraph;
+  VarArticle.appendChild(VarArticlePar1);
+
+  // Second article paragraph
+  const VarArticlePar2 = document.createElement('p');
+  VarArticlePar1.textContent = articleData.secondParagraph;
+  VarArticle.appendChild(VarArticlePar2);
+
+  // Third article paragraph
+  const VarArticlePar3 = document.createElement('p');
+  VarArticlePar3.textContent = articleData.thirdParagraph;
+  VarArticle.appendChild(VarArticlePar3);
+
+  // Expand button
+  const VarExpandButton = document.createElement('span');
+  VarExpandButton.classList.add('expandButton');
+  VarExpandButton.textContent = "Expand";
+
+  VarExpandButton.addEventListener('click', (event) => {
+    console.log(event.target);
+
+    // Display correct button
+    if (VarArticle.classList.toggle('article-open')) {
+      VarExpandButton.textContent = "Close";
+
+    } else {
+      VarExpandButton.textContent = "Expand";
+    }
+  })
+
+  VarArticle.appendChild(VarExpandButton);
+
+  const VarReadButton = document.createElement('span');
+  VarReadButton.classList.add('VarReadButton');
+  VarReadButton.textContent = "Finished";
+  VarReadButton.addEventListener('click', (event) => {
+    VarArticle.style.display = 'none';
+    articleData.read = true;
+  })
+
+  VarArticle.appendChild(VarReadButton);
+
+
+
+  return VarArticle;
+
+}
+
+const articles = document.querySelector('.articles');
+let VarData = data.map((dataItem) => {
+  if (!dataItem.read) {
+    const newArticle = createArticle(dataItem);
+    articles.appendChild(newArticle);
+  }
+
+});
